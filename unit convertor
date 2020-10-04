@@ -29,3 +29,5 @@ elif unit1 == "m" and unit2 == "km":
     ans = float(num1)/1000
 elif unit1 == "mm" and unit2 == "km":
     ans = float(num1)/1000000
+elif unit1 == "mile" and unit2 == "km";
+   ans = float(num1)*0.60934
